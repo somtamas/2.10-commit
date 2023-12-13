@@ -21,3 +21,9 @@ beker7=int(input("Kérlek, adj meg egy számot!"))
 beker8=int(input("Kérlek, adj meg egy számot!"))
 hatvanymeg=beker7**beker8
 print(hatvanymeg)
+
+#osztás
+beker9=int(input("Kérlek, adj meg egy számot!"))
+beker10=int(input("Kérlek, adj meg egy számot!"))
+osztasmeg=beker9/beker10
+print(osztasmeg)
