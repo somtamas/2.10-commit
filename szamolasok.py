@@ -15,3 +15,9 @@ beker5=int(input("Kérlek, adj meg egy számot!"))
 beker6=int(input("Kérlek, adj meg egy számot!"))
 szorzasmeg=beker5*beker6
 print(szorzasmeg)
+
+#hatványozás
+beker7=int(input("Kérlek, adj meg egy számot!"))
+beker8=int(input("Kérlek, adj meg egy számot!"))
+hatvanymeg=beker7**beker8
+print(hatvanymeg)
