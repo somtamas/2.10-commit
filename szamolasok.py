@@ -27,3 +27,11 @@ beker9=int(input("Kérlek, adj meg egy számot!"))
 beker10=int(input("Kérlek, adj meg egy számot!"))
 osztasmeg=beker9/beker10
 print(osztasmeg)
+
+#eldönti, hogy pozitív vagy negatív a szám
+beker11=int(input("Kérlek, adj meg egy számot!"))
+
+if beker11>0:
+    print("A szám az pozitív!")
+else:
+    print("A szám az negatív!")
